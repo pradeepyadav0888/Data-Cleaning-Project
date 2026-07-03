@@ -1,0 +1,4 @@
+requirements.txtpandas
+openpyxl
+numpy
+jupyter
