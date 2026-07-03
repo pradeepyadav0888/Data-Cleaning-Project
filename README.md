@@ -135,9 +135,9 @@ The dataset was successfully cleaned and prepared for further analysis by removi
 
 Aspiring Data Analyst | Python | Pandas | SQL | Power BI
 
-LinkedIn: www.linkedin.com/in/pradeep-yadav-67505a328
+LinkedIn: www.linkedin.com/in/pradeepyadav29
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/pradeepyadav0888
 
 ---
 
