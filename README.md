@@ -71,23 +71,6 @@ The main objectives of this project are:
 
 ---
 
-## 📁 Project Structure
-
-```
-Data-Cleaning-Project/
-│
-├── data/
-│   ├── orders.xlsx
-│   └── cleaned_orders.xlsx
-│
-├── Data_Cleaning_Project.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## ▶️ How to Run the Project
 
 1. Clone this repository
